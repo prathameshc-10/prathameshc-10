@@ -73,7 +73,7 @@ To become a **Backend Developer** specializing in **Java & Spring Boot**, with s
 
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: [*(add your LinkedIn link)*](https://www.linkedin.com/in/prathameshchaudhari404/)
+* 💼 LinkedIn: [*(LinkedIn)*](https://www.linkedin.com/in/prathameshchaudhari404/)
 * 📧 Email: chaudhariprathamesh22@gmail.com
 
 ⭐ If you like my work, consider starring ⭐ my repositories!
