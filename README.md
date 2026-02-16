@@ -51,7 +51,7 @@ A RESTful backend system inspired by Airbnb architecture, built with production-
 - PostgreSQL database integration
 - RESTful API design with validation
 
-[View Repository →](#https://github.com/prathameshc-10/springboot-airbnb)
+[View Repository →](https://github.com/prathameshc-10/springboot-airbnb)
 
 ---
 
@@ -65,7 +65,7 @@ Structured solutions organized by patterns and techniques.
 - Optimized approaches with complexity analysis
 - Topics: Trees, Graphs, Dynamic Programming, Recursion, Greedy, Sliding Window
 
-[View Repository →](#https://github.com/prathameshc-10/DSA-LeetCode)
+[View Repository →](https://github.com/prathameshc-10/DSA-LeetCode)
 
 ---
 
